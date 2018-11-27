@@ -1,0 +1,28 @@
+1)git init
+2)git add first.txt
+3)git status
+4)git commit -m "it is first file and commit"
+5)git status
+6)git mv first.txt first_file.txt
+7)git status
+8)git commit -m "it renames"
+9)git status
+10)git commit -m "it modifies"
+11)git add first_file.txt
+12)git commit -m "it modifies"
+13)git status
+14)git log
+15)git branch branch1
+16)git checkout branch1
+17)git status
+18)git commit -am "Add new features"
+19)git add first_file.txt
+20)git status
+21)git commit -m "it is new branch commit"
+22)git status
+23)git diff master branch1
+24)git log
+25)git checkout master
+26)git merge master branch1
+27)git log
+
